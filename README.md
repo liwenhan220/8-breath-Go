@@ -7,9 +7,9 @@ Traditional rule of game of Go applied on a different kind of board
 
 Have pygame installed first, run "python play.py" to run the game.
 
-press "E" to estimate score
+press "E" to estimate score (Not secure, only for estimation of scores)
 
-press "C" to count score
+press "C" to count score (Used to determine the winning side when game ends)
 
 press "P" to pass (double pass will cause end game)
 
